@@ -7,7 +7,7 @@
 * [Yarn](https://yarnpkg.com/en/)
 
 # run
-```powershell
+```ps
 git clone https://github.com/ezhq/overwatchspider.git
 cd overwatchspider
 yarn install
