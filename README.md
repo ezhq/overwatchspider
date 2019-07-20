@@ -8,5 +8,8 @@
 
 # run
 ```powershell
-// code
+git clone https://github.com/ezhq/overwatchspider.git
+cd overwatchspider
+yarn install
+yarn go
 ```
